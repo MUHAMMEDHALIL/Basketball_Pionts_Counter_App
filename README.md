@@ -1,6 +1,6 @@
 # flutter_application_1
 
-![Basketball](scr="https://github.com/user-attachments/assets/f8366436-d3c3-478c-aa19-d5e5333f1c32")
+![Basketball](scr="https://github.com/user-attachments/assets/f8366436-d3c3-478c-aa19-d5e5333f1c32" width="100" height="100")
 
 
 ## Getting Started
